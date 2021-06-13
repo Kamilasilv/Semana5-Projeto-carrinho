@@ -19,3 +19,7 @@ O exercicio proposto foi a criação de um projeto, com lógica aplicada em Java
 
 #### **Experiência na construção do projeto**
 Foi bastante desafiador, pois tive de utilizar alguns métodos como a classe e o constructor que eu ainda não tinha utilizado em nenhuma outra atividade que tinha sido proposta até essa semana de curso, na Reprograma. Além de que na construção de projeto, essa foi a maior quantidade de linhas que já construi ao longo dessas cinco semanas. Apesar de ter sido parecido com um mini projeto realizado anteriormente que foi a construção de uma "biblioteca de livros". Esse projeto teve diversas diferenças e peculiaridades. Portanto, não foi fácil mas estou muito contente com a minha entrega e dedicação nisso. Agradeço também ao apoio das professoras que auxiliaram ao longo dessas semanas para que chegasse até aqui, além de todas as colegas de curso que também são essenciais nessa jornada!
+
+### **Demonstraçao do Resultado** : 
+<img src="gif carrinho compras.gif" alt="carrinho de compras" width="927" height="920"/>
+
